@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=250&section=header&text=ARVANEX%20CORE&fontSize=80&animation=twinkling&fontColor=ffffff&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD4&height=220&section=header&text=ARVANEX&fontSize=90&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 <br/>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/144/000000/saudi-arabia-emblem.png" width="130" style="filter: drop-shadow(0 0 15px #00e676);" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Emblem_of_Saudi_Arabia.svg/200px-Emblem_of_Saudi_Arabia.svg.png" width="120" style="filter: invert(56%) sepia(93%) saturate(1952%) hue-rotate(134deg) brightness(101%) contrast(101%) drop-shadow(0 0 15px #00FFD4);" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFD4&text=SYSTEMS%20ARCHITECT&fontSize=45&height=50&animation=fadeIn" width="400"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/LOCATION-SAUDI_ARABIA-00FFD4?style=for-the-badge&logo=saudiarabia&logoColor=000000" />
+</p>
 
 <br/>
 
@@ -17,23 +19,23 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArvanexHQ&theme=tokyonight&area=true&hide_border=true&bg_color=050505&color=00FFD4&line=00FFD4&point=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArvanexHQ&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00FFD4&line=00FFD4&point=ffffff" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DEVELOPMENT-050505?style=for-the-badge&logo=python&logoColor=00FFD4" />
-  <img src="https://img.shields.io/badge/CYBER_SECURITY-050505?style=for-the-badge&logo=fortinet&logoColor=FF4444" />
-  <img src="https://img.shields.io/badge/AUTOMATION-050505?style=for-the-badge&logo=probot&logoColor=00FFD4" />
+  <img src="https://img.shields.io/badge/CORE-PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=00FFD4" />
+  <img src="https://img.shields.io/badge/LOW_LEVEL-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FFD4" />
+  <img src="https://img.shields.io/badge/INTEL-SECURITY-0D1117?style=for-the-badge&logo=target&logoColor=00FFD4" />
 </p>
 
 <br/>
 
 <table align="center" style="border: none; background: transparent;">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ArvanexHQ&show_icons=true&theme=tokyonight&bg_color=050505&hide_border=true&title_color=00FFD4&icon_color=00FFD4" width="400" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvanexHQ&layout=compact&theme=tokyonight&bg_color=050505&hide_border=true&title_color=00FFD4" width="300" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ArvanexHQ&show_icons=true&theme=transparent&title_color=00FFD4&text_color=ffffff&icon_color=00FFD4&hide_border=true" width="400" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvanexHQ&layout=compact&theme=transparent&title_color=00FFD4&text_color=ffffff&hide_border=true" width="300" /></td>
   </tr>
 </table>
 
@@ -49,6 +51,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD4&height=100&section=footer" width="100%" />
 
 </div>
