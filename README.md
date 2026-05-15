@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=200&section=header&text=%20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=180&section=header&text=%20&animation=fadeIn" width="100%" />
 
 <br/>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/144/000000/saudi-arabia-emblem.png" width="120" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/green-dot.png" width="0" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Emblem_of_Saudi_Arabia.svg/200px-Emblem_of_Saudi_Arabia.svg.png" width="130" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFD4&text=ArvanexHQ&fontSize=100&height=120&animation=fadeIn" width="400"/>
