@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Emblem_of_Saudi_Arabia.svg/200px-Emblem_of_Saudi_Arabia.svg.png" width="100" style="filter: drop-shadow(0 0 10px #00FFD4);" />
+  <img src="https://raw.githubusercontent.com/ArvanexHQ/ArvanexHQ/main/saudi-emblem.png" width="110" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Emblem_of_Saudi_Arabia.svg/200px-Emblem_of_Saudi_Arabia.svg.png'" style="filter: drop-shadow(0 0 10px #00FFD4);" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArvanexHQ&show_icons=true&theme=transparent&title_color=00FFD4&text_color=ffffff&icon_color=00FFD4&hide_border=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArvanexHQ&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff" width="420" />
 </p>
 
 <br/>
