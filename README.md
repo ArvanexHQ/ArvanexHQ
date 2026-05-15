@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD4&height=200&section=header&text=ARVANEX&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD4&height=180&section=header&text=ARVANEX&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 <br/>
 
 <p align="center">
-  <img src="https://img.icons8.com/nolan/128/saudi-arabia-emblem.png" width="110" style="filter: drop-shadow(0 0 10px #00FFD4);" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Emblem_of_Saudi_Arabia.svg/200px-Emblem_of_Saudi_Arabia.svg.png" width="100" style="filter: drop-shadow(0 0 10px #00FFD4);" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArvanexHQ&show_icons=true&theme=transparent&title_color=00FFD4&text_color=ffffff&icon_color=00FFD4&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArvanexHQ&show_icons=true&theme=transparent&title_color=00FFD4&text_color=ffffff&icon_color=00FFD4&hide_border=true" width="420" />
 </p>
 
 <br/>
@@ -42,12 +42,12 @@
 
 <p align="center">
   <a href="https://github.com/ArvanexHQ">
-    <img src="https://img.shields.io/badge/INITIALIZE_CORE-00FFD4?style=for-the-badge&logo=google-cloud&logoColor=black" />
+    <img src="https://img.shields.io/badge/INITIALIZE_CONNECTION-00FFD4?style=for-the-badge&logo=google-cloud&logoColor=black" />
   </a>
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD4&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD4&height=80&section=footer" width="100%" />
 
 </div>
