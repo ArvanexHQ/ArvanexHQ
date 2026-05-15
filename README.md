@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFD4" />
-  <img src="https://img.shields.io/badge/WinAPI-0D1117?style=for-the-badge&logo=windows&logoColor=00FFD4" />
+  <img src="https://img.shields.io/badge/cpp-0D1117?style=for-the-badge&logo=cpp&logoColor=00FFD4" />
   <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=target&logoColor=00FFD4" />
 </p>
 
