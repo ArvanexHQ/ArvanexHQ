@@ -1,64 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=220&section=header&text=ArvanexHQ&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=120&section=header&text=ARVANEX&fontSize=70&fontColor=00FFD4&animation=fadeIn" width="100%" />
 
 <br/>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Emblem_of_Saudi_Arabia.svg/200px-Emblem_of_Saudi_Arabia.svg.png" width="100" style="filter: drop-shadow(0 0 10px #00e676);" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Emblem_of_Saudi_Arabia.svg/200px-Emblem_of_Saudi_Arabia.svg.png" width="80" style="filter: brightness(0) invert(1) drop-shadow(0 0 5px #00FFD4);" />
 </p>
 
-## ⚡ **SECURITY & AUTOMATION ARCHITECT**
-> *"Algorithms don't lie. Codes don't fail."*
+<br/>
+
+`ALGORITHMS DON'T LIE. CODES DON'T FAIL.`
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=00FFD4" />
-  <img src="https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=c%2B%2B&logoColor=00FFD4" />
-  <img src="https://img.shields.io/badge/Cyber_Security-1E1E1E?style=for-the-badge&logo=target&logoColor=FF4444" />
-  <img src="https://img.shields.io/badge/Saudi_Arabia-107C10?style=for-the-badge&logo=saudiarabia&logoColor=white" />
+  <code>Python</code> &nbsp;•&nbsp; 
+  <code>C++</code> &nbsp;•&nbsp; 
+  <code>Assembly</code> &nbsp;•&nbsp; 
+  <code>Security</code>
 </p>
 
 <br/>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/00FFD4/external-chip-hardware-flatart-icons-outline-flatarticons.png" width="40"/><br/>
-      <b>Advanced Logic</b>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/00FFD4/external-shield-cyber-security-flatart-icons-outline-flatarticons-1.png" width="40"/><br/>
-      <b>Stealth Security</b>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/00FFD4/external-speed-web-hosting-flatart-icons-outline-flatarticons.png" width="40"/><br/>
-      <b>Ultra Speed</b>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=ArvanexHQ&show_icons=true&theme=transparent&title_color=00FFD4&text_color=ffffff&icon_color=00FFD4&hide_border=true" width="380" />
 
-<br/>
-
----
-
-### 📊 **SYSTEM CORE ACTIVITY**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArvanexHQ&show_icons=true&theme=tokyonight&bg_color=050505&hide_border=true&icon_color=00FFD4&title_color=00FFD4&text_color=E6EDF3" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvanexHQ&layout=compact&theme=tokyonight&bg_color=050505&hide_border=true&title_color=00FFD4&text_color=E6EDF3" width="300" />
-</p>
-
-<br/>
+<br/><br/>
 
 ---
 
 <p align="center">
   <a href="https://github.com/ArvanexHQ">
-    <img src="https://img.shields.io/badge/INITIALIZE_CONNECTION-00FFD4?style=for-the-badge&logo=probot&logoColor=black" />
+    <img src="https://img.shields.io/badge/CONNECTION_ESTABLISHED-00FFD4?style=flat-square&logo=target&logoColor=black" />
   </a>
 </p>
-
-<sub>*"Precision is the only standard."*</sub>
 
 </div>
