@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=250&section=header&text=%20&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=200&section=header&text=%20&animation=fadeIn" width="100%" />
+
+<br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArvanexHQ/ArvanexHQ/main/saudi-emblem.png" width="120" /> 
-  </p>
+  <img src="https://img.icons8.com/color/144/000000/saudi-arabia-emblem.png" width="120" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFD4&text=ArvanexHQ&fontSize=100&height=120&animation=fadeIn" width="400"/>
 
