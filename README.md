@@ -12,7 +12,7 @@
 
 ### 📂 **[ DECRYPTED_IDENTITY ]**
 **`MOHAMMED AL-OTAIBI`**
-*17 Years Old • Systems & Security Developer • KSA*
+*17 Years Old • Systems & Security Developer • KSA 🇸🇦*
 
 <br/>
 
@@ -20,11 +20,14 @@
 >
 > ***وأحدن يدور للردى لين يلقاه***
 
+<br/>
+
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TECH-PYTHON_|_C++_-0D1117?style=flat-square&logoColor=00FFD4" /> <br/>
-  <img src="https://img.shields.io/badge/FOCUS-AI_|_CYBER_SECURITY-0D1117?style=flat-square&logoColor=00FFD4" />
+  <img src="https://img.shields.io/badge/TECH-PYTHON_|_C++-0D1117?style=flat-square&logo=python&logoColor=00FFD4" />
+  <br/>
+  <img src="https://img.shields.io/badge/FOCUS-AI_|_CYBER_SECURITY-0D1117?style=flat-square&logo=target&logoColor=00FFD4" />
 </p>
 
 <br/>
