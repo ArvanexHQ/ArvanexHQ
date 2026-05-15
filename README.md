@@ -16,9 +16,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0oZs/0oZs/main/assets/code.svg" onerror="this.src='https://img.icons8.com/ios-filled/50/00FFD4/code.png'" width="30"/> &nbsp; <b>Clean Code</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/00FFD4/shield.png" width="30"/> &nbsp; <b>Stealth Logic</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/00FFD4/speed.png" width="30"/> &nbsp; <b>Optimization</b>
+  <img src="https://img.icons8.com/ios-filled/50/00FFD4/code.png" width="25"/> &nbsp; <b>Clean Code</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/00FFD4/shield.png" width="25"/> &nbsp; <b>Stealth Logic</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/00FFD4/speed.png" width="25"/> &nbsp; <b>Optimization</b>
 </p>
 
 <br/>
