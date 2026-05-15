@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFD4&text=ArvanexHQ&fontSize=100&height=150&animation=fadeIn" width="350"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e676&height=250&section=header&text=%20&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArvanexHQ/ArvanexHQ/main/saudi-emblem.png" width="120" /> 
+  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFD4&text=ArvanexHQ&fontSize=100&height=120&animation=fadeIn" width="400"/>
+
+<br/>
 
 ### ⚡ **SYSTEMS & TOOLS DEVELOPER**
-*Transforming complex logic into minimalist experiences.*
+> **"Algorithms don't lie. Codes don't fail."**
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFD4" />
   <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FFD4" />
-  <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=target&logoColor=00FFD4" />
+  <img src="https://img.shields.io/badge/Saudi_Arabia-107C10?style=for-the-badge&logo=saudiarabia&logoColor=white" />
 </p>
 
 <br/>
@@ -40,6 +48,6 @@
   </a>
 </p>
 
-<sub>*"Simplicity is the soul of efficiency."*</sub>
+<sub>*"Precision over Noise."*</sub>
 
 </div>
