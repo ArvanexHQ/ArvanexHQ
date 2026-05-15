@@ -5,11 +5,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArvanexHQ/ArvanexHQ/main/saudi-emblem.png" width="110" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Emblem_of_Saudi_Arabia.svg/200px-Emblem_of_Saudi_Arabia.svg.png'" style="filter: drop-shadow(0 0 10px #00FFD4);" />
+  <img src="https://img.icons8.com/nolan/128/saudi-arabia-emblem.png" width="100" style="filter: drop-shadow(0 0 8px #00FFD4);" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REGION-SAUDI_ARABIA-00FFD4?style=for-the-badge&logo=saudiarabia&logoColor=000000" />
+  <img src="https://img.shields.io/badge/DEVELOPER-SAUDI_ARABIA-00FFD4?style=for-the-badge&logo=saudiarabia&logoColor=000000" />
 </p>
 
 <br/>
@@ -18,22 +18,42 @@
 
 ---
 
+### 🛠️ **LABORATORY STATUS**
+<table align="center">
+  <tr>
+    <td width="50%" align="left">
+      <b>🚀 Project: AURA-AI</b><br/>
+      <code>Status: Active Development</code><br/>
+      <img src="https://geps.dev/progress/85?dangerColor=00FFD4&warningColor=00FFD4&successColor=00FFD4" width="180"/>
+    </td>
+    <td width="50%" align="left">
+      <b>🛡️ Project: Z-SHIELD</b><br/>
+      <code>Status: Kernel Testing</code><br/>
+      <img src="https://geps.dev/progress/60?dangerColor=00FFD4&warningColor=00FFD4&successColor=00FFD4" width="180"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 📈 **CORE SYSTEM ACTIVITY**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArvanexHQ&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00FFD4&line=00FFD4&point=ffffff" width="100%" />
 </p>
 
 <br/>
 
+### 🧠 **TECH STACK ARCHITECTURE**
 <p align="center">
-  <img src="https://img.shields.io/badge/CORE-PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=00FFD4" /> &nbsp; 
-  <img src="https://img.shields.io/badge/LOW_LEVEL-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FFD4" /> &nbsp; 
-  <img src="https://img.shields.io/badge/INTEL-SECURITY-0D1117?style=for-the-badge&logo=target&logoColor=00FFD4" />
+  <img src="https://img.shields.io/badge/Development-Python%20|%20C++%20-0D1117?style=flat-square&logo=visual-studio-code&logoColor=00FFD4" />
+  <img src="https://img.shields.io/badge/Security-Pentesting%20|%20Forensics-0D1117?style=flat-square&logo=target&logoColor=00FFD4" />
+  <img src="https://img.shields.io/badge/Tools-AHK%20|%20Git%20-0D1117?style=flat-square&logo=github&logoColor=00FFD4" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArvanexHQ&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArvanexHQ&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff" width="450" />
 </p>
 
 <br/>
