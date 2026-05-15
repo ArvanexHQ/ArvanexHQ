@@ -37,7 +37,7 @@
 ---
 
 ### 🌑 Connection
-[**DISCORD**](https://discord.com) • [**GITHUB**](https://github.com/0oZs) • [**X**](https://x.com)
+[**DISCORD**](https://discord.com) • [**GITHUB**](https://github.com/0oZs) • [**Tiktok**](https://www.tiktok.com/@MS4wLjABAAAA6AAXnsQKasQ4oi3VZpTogyWTqSUT8vma6qaQ_1tmulUPdlTHx-yhu41dzoAxvozN?lang=en/@q6._)
 
 <br/>
 
