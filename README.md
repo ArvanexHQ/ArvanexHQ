@@ -27,7 +27,7 @@
 
 ### 📈 **GIT ACTIVITY**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0oZs&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD4&sideNums=00FFD4&stroke=00FFD4" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArvanexHQ&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD4&sideNums=00FFD4&stroke=00FFD4" width="100%" alt="GitHub Streak Stats" />
 </p>
 
 <br/>
