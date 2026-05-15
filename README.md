@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/0oZs">
+  <a href="https://github.com/ArvanexHQ">
     <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-00FFD4?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
