@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛠️ Arvanex
+# 🛠️ 0oZs
 **Software Engineer | Low-Level Tool Developer**
 
 ---
@@ -23,10 +23,10 @@
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0oZs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0oZs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0oZs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0oZs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
 </div>
+
 ---
 <div align="center">
   <sub>"Simplicity is the soul of efficiency."</sub>
