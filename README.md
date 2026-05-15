@@ -1,28 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD4&height=200&section=header&text=ARVANEX&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD4&height=180&section=header&text=ARVANEX&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 <br/>
 
 <p align="center">
-  <img src="https://img.icons8.com/nolan/128/saudi-arabia-emblem.png" width="110" style="filter: drop-shadow(0 0 10px #00FFD4);" />
+  <img src="https://img.icons8.com/nolan/128/saudi-arabia-emblem.png" width="100" style="filter: drop-shadow(0 0 8px #00FFD4);" />
 </p>
 
-### 📂 **CORE_IDENTITY_DECRYPTED**
-<table align="center" style="border: 1px solid #00FFD4; background: transparent;">
-  <tr>
-    <td align="left" style="padding: 10px;">
-      <b>Name:</b> <code>Mohammed Al-Otaibi</code> <br/>
-      <b>Age:</b> <code>17</code> <br/>
-      <b>Base:</b> <code>KSA 🇸🇦</code>
-    </td>
-    <td align="left" style="padding: 10px;">
-      <b>Field:</b> <code>Cyber Security & AI</code> <br/>
-      <b>Skills:</b> <code>Python | C++ | AHK</code> <br/>
-      <b>Interest:</b> <code>Poetry & Stocks</code>
-    </td>
-  </tr>
-</table>
+<br/>
+
+### 📂 **[ DECRYPTED_IDENTITY ]**
+**`MOHAMMED AL-OTAIBI`**
+*17 Years Old • Systems & Security Developer •  KSA*
+
+---
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/20/00FFD4/code.png"/> <b>Tech Stack:</b> Python, C++, HTML <br/>
+  <img src="https://img.icons8.com/ios-filled/20/00FFD4/security-checked.png"/> <b>Interests:</b> AI & Cybersecurity <br/>
+  <img src="https://img.icons8.com/ios-filled/20/00FFD4/scroll.png"/> <b>Poetry:</b> Nabati (Al-Mankous & Al-Mas'houb)
+</p>
 
 <br/>
 
@@ -52,6 +50,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD4&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD4&height=80&section=footer" width="100%" />
 
 </div>
