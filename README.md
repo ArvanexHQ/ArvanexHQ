@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFD4&text=0oZs&fontSize=100&height=150&animation=fadeIn" width="350"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFD4&text=ArvanexHQ&fontSize=100&height=150&animation=fadeIn" width="350"/>
 
 ### ⚡ **SYSTEMS & TOOLS DEVELOPER**
 *Transforming complex logic into minimalist experiences.*
