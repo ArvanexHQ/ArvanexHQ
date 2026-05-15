@@ -14,7 +14,7 @@
     <td align="left" style="padding: 10px;">
       <b>Name:</b> <code>Mohammed Al-Otaibi</code> <br/>
       <b>Age:</b> <code>17</code> <br/>
-      <b>Base:</b> <code>Shaqra, KSA 🇸🇦</code>
+      <b>Base:</b> <code>KSA 🇸🇦</code>
     </td>
     <td align="left" style="padding: 10px;">
       <b>Field:</b> <code>Cyber Security & AI</code> <br/>
