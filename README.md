@@ -8,9 +8,21 @@
   <img src="https://img.icons8.com/nolan/128/saudi-arabia-emblem.png" width="110" style="filter: drop-shadow(0 0 10px #00FFD4);" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REGION-SAUDI_ARABIA-00FFD4?style=for-the-badge&logo=saudiarabia&logoColor=000000" />
-</p>
+### 📂 **CORE_IDENTITY_DECRYPTED**
+<table align="center" style="border: 1px solid #00FFD4; background: transparent;">
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Name:</b> <code>Mohammed Al-Otaibi</code> <br/>
+      <b>Age:</b> <code>17</code> <br/>
+      <b>Base:</b> <code>Shaqra, KSA 🇸🇦</code>
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Field:</b> <code>Cyber Security & AI</code> <br/>
+      <b>Skills:</b> <code>Python | C++ | AHK</code> <br/>
+      <b>Interest:</b> <code>Poetry & Stocks</code>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -25,14 +37,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CORE-PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=00FFD4" /> &nbsp; 
-  <img src="https://img.shields.io/badge/LOW_LEVEL-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FFD4" /> &nbsp; 
-  <img src="https://img.shields.io/badge/INTEL-SECURITY-0D1117?style=for-the-badge&logo=target&logoColor=00FFD4" />
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArvanexHQ&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00FFD4&icon_color=00FFD4&text_color=ffffff" width="400" />
 </p>
 
@@ -42,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/ArvanexHQ">
-    <img src="https://img.shields.io/badge/INITIALIZE_CORE-00FFD4?style=for-the-badge&logo=google-cloud&logoColor=black" />
+    <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-00FFD4?style=for-the-badge&logo=google-cloud&logoColor=black" />
   </a>
 </p>
 
