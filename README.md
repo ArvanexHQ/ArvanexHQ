@@ -12,21 +12,22 @@
 
 ### 📂 **[ DECRYPTED_IDENTITY ]**
 **`MOHAMMED AL-OTAIBI`**
-*17 Years Old • Systems & Security Developer •  KSA*
+*17 Years Old • Systems & Security Developer • Shaqra, KSA*
+
+<br/>
+
+> ***أحدن يضيق إن شاف بالعلم تفريق***
+>
+> ***وأحدن يدور للردى لين يلقاه***
 
 ---
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/20/00FFD4/code.png"/> <b>Tech Stack:</b> Python, C++, HTML <br/>
-  <img src="https://img.icons8.com/ios-filled/20/00FFD4/security-checked.png"/> <b>Interests:</b> AI & Cybersecurity <br/>
-  <img src="https://img.icons8.com/ios-filled/20/00FFD4/scroll.png"/> <b>Poetry:</b> Nabati (Al-Mankous & Al-Mas'houb)
+  <img src="https://img.shields.io/badge/TECH-PYTHON_|_C++_|_AHK-0D1117?style=flat-square&logoColor=00FFD4" /> <br/>
+  <img src="https://img.shields.io/badge/FOCUS-AI_|_CYBER_SECURITY-0D1117?style=flat-square&logoColor=00FFD4" />
 </p>
 
 <br/>
-
-> **`ALGORITHMS DON'T LIE. CODES DON'T FAIL.`**
-
----
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArvanexHQ&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00FFD4&line=00FFD4&point=ffffff" width="100%" />
@@ -44,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/ArvanexHQ">
-    <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-00FFD4?style=for-the-badge&logo=google-cloud&logoColor=black" />
+    <img src="https://img.shields.io/badge/INITIALIZE_CONNECTION-00FFD4?style=for-the-badge&logo=google-cloud&logoColor=black" />
   </a>
 </p>
 
